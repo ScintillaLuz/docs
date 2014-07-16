@@ -25,6 +25,7 @@ You don't need previous experience: this is an internship and an opportunity for
 - Prepare reports measuring and analysing the results of the campaigns, devising solutions for the problems encountered and planning how to incorporate feedbacks in the future campaigns.
 - Build a network of partners–tech companies and startups–for Devcharm Job Board and keep on expanding it.
 - Work tightly with the founders to deliver what's necessary to sustain these partnerships in terms of features and customer support.
+- Collect insights, feedback and success stories from our advertisers and users.
 
 
 ## What we offer
