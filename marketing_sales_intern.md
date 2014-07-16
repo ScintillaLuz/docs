@@ -1,12 +1,14 @@
 ## About Devcharm
 
-Devcharm has been built by highly skilled technical people for an audience of experts: programmers, web developers and geeks of any sort. At Devcharm we embrace the concept of the Open Web and we believe that sharing free knowledge about programming is at the very root of the progress of the Internet. This said, our goal is to build the first free and open library of curated web references about programming, asking everyone with technical knowledge to contribute. We encourage users to contribute to our articles, but we support the production of content working together with experienced editors.
+[Devcharm](https://devcharm.com/) has been built by highly skilled technical people for an audience of experts: programmers, web developers and geeks of any sort. At Devcharm we embrace the concept of the Open Web and we believe that sharing free knowledge about programming is at the very root of the progress of the Internet. This said, our goal is to build the first free and open library of curated web references about programming, asking everyone with technical knowledge to participate. We encourage users to contribute to our articles, but we support the production of content working together with experienced editors.
 
 The Job Board will be an important section of the platform, offering selected job ads from the best companies in Berlin and Europe to our very targeted audience.
 
 You will help Devcharm to grow in terms of traffic and visibility, contributing in building the Devcharm brand and reaching our potential target. You will be involved in sales activity, building and expanding a network of partnerships for Devcharm Job Board.
 
 You don't need previous experience: this is an internship and an opportunity for you to start building from the ground skills you're going to be used in the future. Internships are for building an expertise, not for taking advantage of a previous one. But they require dedication.
+
+[Devcharm](https://devcharm.com/)
 
 
 ## Your skills
@@ -39,3 +41,5 @@ Your ideas matter.
 
 
 **We accept applications in English only**
+
+*Devcharm is a product of Urlist S.r.l*
