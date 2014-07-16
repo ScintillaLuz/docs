@@ -19,6 +19,7 @@ You don't need previous experience: this is an internship and an opportunity for
 - You know what it means to take responsibility for the job that has been assigned to you.
 - You are not afraid of committing mistakes, getting things wrong or not receiving the expected results from your campaigns: you consider every feedback valuable feedback and you react quickly.
 - You want to learn something new. Either is how to optimize Google Analytics reports, or to enhance a AdWords campaign, you know that is your job to grok.
+- You have a passion for the Web, and even if you don't know anything about programming you understand it's important to build a knowledge background about what's sorrounding the world of development. If we speak about Stack Overflow, Linux or Github even if you don't know what they are you want to know **why they are important for us and on the market**
 
 
 ## Your responsibilities
@@ -41,5 +42,6 @@ Your ideas matter.
 
 
 **We accept applications in English only**
+Please send a full version of your CV and 400 words on why you would like to join us to jobs@devcharm.com
 
-*Devcharm is a product of Urlist S.r.l*
+*Devcharm is a product of [Urlist S.r.l](http://www.linkedin.com/company/urlist)*
